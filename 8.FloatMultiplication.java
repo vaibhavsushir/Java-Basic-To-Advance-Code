@@ -8,9 +8,10 @@ class FloatMultiplication {
         System.out.println("Enter Second Number: ");
         double b=input.nextDouble();
 
-        double mul=a*b;
+        double mul=a*b ;
         System.out.println("Multiplication Is: "+mul);
 
 
     }
 }
+
