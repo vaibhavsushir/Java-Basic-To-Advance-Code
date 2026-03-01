@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class TriangleArea {
+class TriangleArea{
     public static void main(String[]args){
         System.out.println("Calulate The Triangle Area");
         Scanner input=new Scanner(System.in);
@@ -11,3 +11,4 @@ class TriangleArea {
         System.out.println("Area Of Cicle is: "+ area);
     }
 }
+
