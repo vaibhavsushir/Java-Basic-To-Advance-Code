@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class SimpleInterest {
     public static void main(String[]args){
-        System.out.println("Welcome To Simple Interest Calculator");
+        System.out.println("Welcome To Simple Interest Calculator") ;
         Scanner input=new Scanner(System.in);
         System.out.print("Enter Principle Amount:");
         int a=input.nextInt();
@@ -14,3 +14,4 @@ class SimpleInterest {
         System.out.println("Your Simple Interst Is:"+interest);
     }
 }
+
