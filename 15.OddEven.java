@@ -6,9 +6,10 @@ class OddEven {
         System.out.print("Enter The Number: ");
         int a=input.nextInt();;
         if(a % 2 == 0){
-            System.out.println("Even Number");
+            System.out.println("Even Number") ;
         }else{
             System.out.println("Odd Number");
         }
     }
 }
+
