@@ -4,8 +4,7 @@ class Grading {
         Scanner input=new Scanner(System.in);
         System.out.println("Enter To Grade Calculator");
         System.out.print("Enter Your Percent marks: ");
-        int a=input.nextInt();;
-
+        int a=input.nextInt();
         if(a>=90){
             System.out.println("Grade,You Have Got A");
         }
@@ -20,3 +19,4 @@ class Grading {
         }
     }
 }
+
