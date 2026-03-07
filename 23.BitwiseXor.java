@@ -6,10 +6,11 @@ class BitwiseXor {
         System.out.print("Enter First Number: ");
         int a=input.nextInt();;
         System.out.print("Enter Second Number: ");
-        int b=input.nextInt();;
+        int b=input.nextInt();
 
         int result=a^b ;
         System.out.println("Bitwise Number Is : "+result);
 
     }
 }
+
