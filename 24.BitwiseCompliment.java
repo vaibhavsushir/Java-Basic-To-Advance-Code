@@ -8,6 +8,6 @@ class BitwiseCompliment {
         int result = ~a;
         System.out.println(result);
     }
-
 }
+
 
