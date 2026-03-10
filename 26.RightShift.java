@@ -4,8 +4,9 @@ class RightShift {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome To Showcasing RightShift operators");
         System.out.print("Enter Your Number: ");
-        int a = input.nextInt();;
+        int a = input.nextInt();
         int result = a >> 1;
         System.out.println(result);
     }
+
 }
