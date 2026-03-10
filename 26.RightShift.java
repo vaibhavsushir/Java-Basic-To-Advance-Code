@@ -8,5 +8,5 @@ class RightShift {
         int result = a >> 1;
         System.out.println(result);
     }
-
 }
+
