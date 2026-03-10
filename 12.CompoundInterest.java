@@ -9,7 +9,8 @@ class CompoundInterest {
         float b=input.nextInt();
         System.out.print("Now,Tell How Many Years You Borrowing Money: ");
         float c= input.nextInt();
-        double CI=a*Math.pow((1+b/100),c);;
+        double CI=a*Math.pow((1+b/100),c);
         System.out.println("Compound Interest Is: "+CI);
     }
 }
+
