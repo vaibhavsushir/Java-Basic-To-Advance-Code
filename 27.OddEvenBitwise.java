@@ -5,7 +5,6 @@ class OddEvenBitwise {
         Scanner input=new Scanner(System.in);;
         System.out.print("Enter Your Number: ");
         int a=input.nextInt();
-
         if((a & 1) ==1){
             System.out.println("Your Number Is Odd");
         }else{
@@ -15,3 +14,4 @@ class OddEvenBitwise {
     }
 
 }
+
