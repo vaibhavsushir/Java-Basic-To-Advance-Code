@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class IsSortedArray {
     public static void main(String[]args){
-        System.out.println("Welcome To Array Sorting Check Post\n");
+        System.out.println("Welcome To Array Sorting Check Post\n") ;
         int[] numarray=ArrayUtility.inputArray();
         boolean IsInc = IsIncreasing(numarray);
         boolean IsDec= IsDecreasing(numarray);
