@@ -9,6 +9,5 @@ class DeleteFromArray {
 
         System.out.println("Here Is Your New Array");
     }
-
     }
 
