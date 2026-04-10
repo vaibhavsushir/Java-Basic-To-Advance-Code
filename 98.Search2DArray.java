@@ -25,7 +25,6 @@ class Search2DArray {
             }
             i++;
         }
-
         return false;
     }
 }
