@@ -6,7 +6,7 @@ class RangeQueory {
         System.out.print("Enter How Many Queory: ");
         int q = input.nextInt();
         int[] arr = ArrayUtility.takingarray();
-        int[] pref = prefixsum(arr);
+        int[] pref = prefixsum(arr); 
         while(q-- > 0){
             System.out.println("Enter Range: ");
             int l = input.nextInt();
