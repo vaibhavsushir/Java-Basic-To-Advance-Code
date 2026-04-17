@@ -4,7 +4,7 @@ class IsSortedArray {
         System.out.println("Welcome To Array Sorting Check Post\n");
         int[] numarray=ArrayUtility.inputArray();
         boolean IsInc = IsIncreasing(numarray);
-        boolean IsDec= IsDecreasing(numarray);
+        boolean IsDec= IsDecreasing(numarray); 
         if(IsInc || IsDec){
             System.out.println("Array Is Sorted");
         }else{
