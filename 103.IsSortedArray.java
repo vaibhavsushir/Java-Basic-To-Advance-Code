@@ -9,7 +9,7 @@ class IsSortedArray {
             System.out.println("Array Is Sorted");
         }else{
             System.out.println("Array Is Not Sorted");
-        }
+        } 
     }
     public static boolean IsIncreasing(int[] numarray){
         int i=1;
