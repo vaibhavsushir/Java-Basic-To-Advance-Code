@@ -16,7 +16,6 @@ class PalindromeArray {
             if(numarr[i] == numarr[(numarr.length-1)-i]){
                 i++;;
             }
-
         }
 
         return true;
