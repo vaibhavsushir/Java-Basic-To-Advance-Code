@@ -17,7 +17,6 @@ class PalindromeArray {
                 i++;;
             }
         }
-
         return true;
     }
 }
