@@ -3,7 +3,6 @@ class SumAverage2DArray {
     public static void main(String[] args) {
         System.out.println("Welcom To Calculate Sum And Average Of 2D Array\n");
         int[][] numarray = ArrayUtility.input2DArray();
-
         long sum = Sum(numarray);
         double average =Average(numarray);
         System.out.println("Your Sum of Array is: "+sum);
