@@ -17,7 +17,7 @@ class SumAverage2DArray {
         double size = rows*col;
         return Sum(numarray) / size ;
     }
-    public static long Sum(int[][] numarray){
+    public static long Sum(int[][] numarray){ 
         long sum=0;
         int i=0;
         while( i < numarray.length){
