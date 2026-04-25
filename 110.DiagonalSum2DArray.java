@@ -16,6 +16,7 @@ class DiagonalSum2DArray {
         }
         return sum; 
     }
+    
     public static long sumofleftdiagonals(int[][] numarray){
         long sum = 0;
         int i = 0;
