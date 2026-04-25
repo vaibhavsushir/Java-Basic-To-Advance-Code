@@ -1,6 +1,5 @@
 class Book {
     static int totalnoofbooks;
-
     String Author;
     String Title;
     String Isbn;
