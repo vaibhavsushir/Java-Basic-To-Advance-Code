@@ -9,8 +9,7 @@ class Course {
             this.enrollments = 0;
             this.enrolledstudents = new String[maxcapacity];
     }
-
-
+    
     static void setMaxcapacity(int maxcapacity){
         Course.maxcapacity =maxcapacity;
     }
