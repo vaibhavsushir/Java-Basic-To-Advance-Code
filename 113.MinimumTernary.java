@@ -1,6 +1,6 @@
 import com.sun.security.jgss.GSSUtil;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 class MinimumTernary {
     public static void main(String[] args) {
         System.out.println("Welcome To Find Minimum Number\n"); 
