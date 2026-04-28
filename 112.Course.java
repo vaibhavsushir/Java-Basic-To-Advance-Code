@@ -12,7 +12,6 @@ class Course {
 
 
 
-
     static void setMaxcapacity(int maxcapacity){
         Course.maxcapacity =maxcapacity;
     }
