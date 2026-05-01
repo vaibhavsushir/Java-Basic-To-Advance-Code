@@ -7,6 +7,5 @@ class AbsoluteTernary {
         int num = input.nextInt();
         int result = num > 0 ? num : (-num);
         System.out.println("Absolute Number Is:"+result);
-
     }
 }
