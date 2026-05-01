@@ -8,6 +8,5 @@ class OddEvenTernary {
         String result =num % 2 ==0 ? "Even" : "Odd" ;
         System.out.print("Your Number Is : "+result); 
 
-
     }
 }
