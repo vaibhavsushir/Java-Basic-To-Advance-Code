@@ -12,7 +12,7 @@ class MonthSwitch {
     public static String getMonthName(int monthnum){
         String monthname = switch(monthnum){
             case 1->"January";
-            case 2->"February";
+            case 2->"February"; 
             case 3->"March";
             case 4->"April";
             case 5->"May";
