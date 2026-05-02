@@ -8,7 +8,6 @@ class MonthSwitch {
         String Monthname = getMonthName(monthnum);
         System.out.println("Your Month Name Is: "+Monthname);
 
-
     }
     public static String getMonthName(int monthnum){
         String monthname = switch(monthnum){
