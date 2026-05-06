@@ -7,7 +7,7 @@ import java.util.Scanner;
         System.out.print("Enter second no: ");
         Scanner myinput = new Scanner(System.in);
         int snumber = myinput.nextInt();
-        int sum = Fnumber + snumber ;
+        int sum = Fnumber + snumber ; 
         System.out.print("Sum Is : "+sum );
 
 
