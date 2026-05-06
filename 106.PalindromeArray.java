@@ -4,7 +4,7 @@ class PalindromeArray {
         System.out.println("Welcome To Palindrome Checker\n");
         int[] numarr = ArrayUtility.inputArray(); 
         boolean ispalin = IsPalindrome(numarr);
-        if(ispalin){
+        if(ispalin){ 
             System.out.println("Your Array Is Palindrome");
         }else {
             System.out.println("Your Array Is Not Palindrome");
