@@ -11,7 +11,6 @@ class FloatMultiplication {
         double mul=a*b ;
         System.out.println("Multiplication Is: "+mul);
 
-
     }
 }
 
