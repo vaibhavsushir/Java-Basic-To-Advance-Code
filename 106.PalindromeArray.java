@@ -2,7 +2,7 @@ import java.util.Scanner;
 class PalindromeArray {
     public static void main(String[] args) {
         System.out.println("Welcome To Palindrome Checker\n");
-        int[] numarr = ArrayUtility.inputArray();
+        int[] numarr = ArrayUtility.inputArray(); 
         boolean ispalin = IsPalindrome(numarr);
         if(ispalin){
             System.out.println("Your Array Is Palindrome");
