@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class MaxMinArray {
-    public static void main(String[]args) {
+    public static void main(String[]args) { 
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome To Find Maximum And Minimum Number Finder ");
         int[] numarray=ArrayUtility.inputArray();
