@@ -11,7 +11,7 @@ class MaxMinArray {
     }
     public static int max(int[] numarray) {
         if(numarray.length == 0){
-            return Integer.MIN_VALUE;
+            return Integer.MIN_VALUE; 
         } 
         int max = numarray[0];
         int i=1;
