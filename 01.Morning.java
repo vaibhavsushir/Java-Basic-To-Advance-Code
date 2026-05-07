@@ -3,6 +3,6 @@ class Morning {
         System.out.println("Program To Print");
         System.out.println("Good Morning");
     }
-} 
+}  
 
 
