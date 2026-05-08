@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class PositiveNegativeZero {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Scanner input=new Scanner(System.in);
         System.out.println("Welcome TO Number Checker");
         System.out.print("Enter Your Number: ");
