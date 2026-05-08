@@ -5,7 +5,7 @@ class Pascals_Triangle {
             for(int j=0; j<arr[i].length; j++){
                 System.out.print(arr[i][j]+" ");
             }
-            System.out.println();
+            System.out.println(); 
         }
     }
     static int[][] pascal(int n) {
