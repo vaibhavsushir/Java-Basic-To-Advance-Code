@@ -7,7 +7,7 @@ class PositiveNegativeZero {
         int no=input.nextInt();
         if(no>0){
             System.out.println("Your Number Is Positive");
-        }
+        } 
         else if(no ==0 ){
             System.out.println("Your Number Is Zero");
         }else{
