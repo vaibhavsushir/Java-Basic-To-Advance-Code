@@ -9,6 +9,6 @@ class TriangleArea{
         int b=input.nextInt();
         double area=0.5*a*b;
         System.out.println("Area Of Cicle is: "+ area);
-    }
+    } 
 }
 
