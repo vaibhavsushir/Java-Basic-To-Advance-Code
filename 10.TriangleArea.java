@@ -6,7 +6,7 @@ class TriangleArea{
         System.out.print("Enter Width:");
         int a=input.nextInt();
         System.out.print("Enter Height: "); 
-        int b=input.nextInt();
+        int b=input.nextInt(); 
         double area=0.5*a*b;
         System.out.println("Area Of Cicle is: "+ area);
     } 
