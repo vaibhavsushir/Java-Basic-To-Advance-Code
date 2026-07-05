@@ -9,7 +9,6 @@ class MinimumTernary {
         int num1 = input.nextInt();
         System.out.print("Enter Second Number: ");
         int num2 = input.nextInt();
-
         int greatestnumber = num1 > num2 ? num1 : num2;;
         System.out.println(greatestnumber+ " Is Greatest Number");
 
