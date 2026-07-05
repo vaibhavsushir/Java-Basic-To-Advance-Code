@@ -12,6 +12,6 @@ class MinimumTernary {
         int greatestnumber = num1 > num2 ? num1 : num2;;
         System.out.println(greatestnumber+ " Is Greatest Number");
 
-    }
+    } 
 }
  
