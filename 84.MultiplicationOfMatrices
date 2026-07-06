@@ -26,6 +26,7 @@ import java.util.Scanner;
                 arr2[i][j] = input.nextInt();
             }
         }
+
         System.out.println("Matrix 1 Is");
         int[][] matrix1 = arr;
         printarr(arr);
