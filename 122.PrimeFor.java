@@ -13,6 +13,6 @@ class PrimeFor {
                           return false;
                 }
         }
-            return true;b
+            return true;
     }
 }
