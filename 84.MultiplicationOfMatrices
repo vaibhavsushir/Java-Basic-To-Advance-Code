@@ -36,6 +36,7 @@ import java.util.Scanner;
         int[][] multiply = multiply(arr, r1, c1, arr2, r2, c2);
         printarr(multiply);
     }
+
     static int[][] multiply(int[][] a, int r1, int c1, int[][] b, int r2, int c2) {
         if (c1 != r2) {
             System.out.println("Wrong Input Multiplication Is Not Possible");
@@ -51,6 +52,7 @@ import java.util.Scanner;
         }
         return mul;
     }
+
             static void printarr ( int[][] array){
                 for (int i = 0; i < array.length; i++) {
                     for (int j = 0; j < array[i].length; j++) {
