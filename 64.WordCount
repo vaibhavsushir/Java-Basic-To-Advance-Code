@@ -6,6 +6,6 @@ public class WordCount {
         String str = sc.nextLine();
 
         String words[] = str.split(" ");
-        System.out.println("Words = " + words.length);
+        System.out.println("Words = " + words.length); 
     }
 }
