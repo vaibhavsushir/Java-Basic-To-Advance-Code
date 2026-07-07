@@ -10,8 +10,5 @@ class MaxArray {
             }
         }
         System.out.println("Maximum Number Is: "+ max );
-
-
-
     }
 }
