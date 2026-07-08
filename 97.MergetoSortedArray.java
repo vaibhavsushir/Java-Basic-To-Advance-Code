@@ -11,7 +11,7 @@ class MergetoSortedArray {
     public static int[] merge(int[] arr1,int[] arr2){
         int newsize = arr1.length + arr2.length;
         int[] newarr = new int[newsize];
-        int i = 0,j=0,k=0;
+        int i = 0,j=0,k=0; 
   
         while(i < arr1.length || i < arr2.length){
             if(j == arr2.length || (i < arr1.length) && arr1[i] < arr2[j]){
