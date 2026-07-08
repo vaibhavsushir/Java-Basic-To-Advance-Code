@@ -4,7 +4,7 @@ class Palindromenumber {
         Scanner input=new Scanner(System.in);
         System.out.println("WElcome to Palindrome Number");
         System.out.print("Enter Your Number: ");
-
+ 
 }
 
 }
