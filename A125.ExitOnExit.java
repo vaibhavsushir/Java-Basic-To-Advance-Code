@@ -8,7 +8,7 @@ class ExitOnExit {
             if( command.equals("Exit")){
                 break;
             }
-        }
+        } 
         System.out.println("You Have Successfully Exit");
     }
 }
