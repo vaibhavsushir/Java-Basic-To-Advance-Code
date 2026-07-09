@@ -35,7 +35,6 @@ class MaxMinArray {
             i++;
             ;
         }
-
         return min;
     }
 }
