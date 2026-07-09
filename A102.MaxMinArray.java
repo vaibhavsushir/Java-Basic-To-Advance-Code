@@ -24,6 +24,7 @@ class MaxMinArray {
         }
         return max;
     }
+    
     public static int min(int[] numarray) {
         int min = Integer.MAX_VALUE;
         int i = 0;
