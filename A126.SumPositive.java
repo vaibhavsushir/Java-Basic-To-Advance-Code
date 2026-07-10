@@ -13,6 +13,5 @@ class SumPositive {
             }
         }
         System.out.println("Sum Of Positive Number Is: "+ sum);
-
     }
 }
