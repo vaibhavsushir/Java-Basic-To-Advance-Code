@@ -9,7 +9,7 @@ class SumPositive {
             if ( num < 0){
                 continue;
             }else{
-                sum += num ;
+                sum += num ; 
             }
         }
         System.out.println("Sum Of Positive Number Is: "+ sum);
