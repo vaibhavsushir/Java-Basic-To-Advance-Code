@@ -16,6 +16,7 @@ class Input2DArray {
         System.out.println("Your Array Is: ");
         printarr(arr);
     }
+
        static  int[][] printarr(int[][] arr) {
            for (int i = 0; i < arr.length; i++) {
                for (int j = 0; j < arr[i].length; j++) {
