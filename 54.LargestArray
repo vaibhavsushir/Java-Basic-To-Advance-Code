@@ -9,5 +9,5 @@ public class LargestArray {
                 max = arr[i];
         }
         System.out.println("Largest = " + max);
-    }
+    } 
 }
