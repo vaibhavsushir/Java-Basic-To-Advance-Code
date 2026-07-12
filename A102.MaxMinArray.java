@@ -33,7 +33,7 @@ class MaxMinArray {
                 min = numarray[i];
             }
             i++;
-            ;
+            
         }
         return min;
     }
