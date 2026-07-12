@@ -6,7 +6,7 @@ class FibonacciRecursion {
         System.out.print("Enter Number Of Elements To be Printed: ");
         int count = input.nextInt();
         for (int i = 1; i <= count; i++) {
-            System.out.println(fibonacci(i) + " ");
+            System.out.println(fibonacci(i) + " "); 
         }
     }
         public static int fibonacci( int position){
