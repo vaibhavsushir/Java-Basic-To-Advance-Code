@@ -10,7 +10,7 @@ class SumOfDigits {
         System.out.println("Sum Of Digits Is: "+sum);
     }
     
-    public static int sumofdigit(int a) {
+    public static int sumofdigit(int a){
         int sum = 0;
         while (a > 0) {
             sum = sum + (a % 10);
