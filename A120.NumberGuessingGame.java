@@ -9,7 +9,5 @@ class NumberGuessingGame {
             guess = input.nextInt();
         }while(num != guess);
         System.out.println("You Have Successfully Guess The Number");
-
-
     }
 }
