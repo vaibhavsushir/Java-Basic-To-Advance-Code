@@ -6,8 +6,8 @@ class PalindromeRecursion {
         System.out.print("Enter String You Want To Be Check: ");
         String str = input.next();
         System.out.println("Your String Is " + (IsPalindrome(str) ? "Palindrome" : "Not Palindrome"));
-
     }
+    
     public static boolean IsPalindrome(String str){
         if(str.length() <= 1){
             return true;
