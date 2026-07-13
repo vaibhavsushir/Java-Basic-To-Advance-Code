@@ -9,5 +9,6 @@ public class MultipleCheck {
             System.out.println("Multiple of 3 and 7");
         else
             System.out.println("Not Multiple");
+
     }
 }
