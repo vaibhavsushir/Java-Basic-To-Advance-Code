@@ -5,9 +5,9 @@ public class CaseConvert {
         Scanner sc = new Scanner(System.in);
         char ch = sc.next().charAt(0);
 
-        if (ch >= 'A' && ch <= 'Z')
+        if (ch >= 'A' && ch <= 'Z'){
             ch = (char)(ch + 32);
-
+}
         System.out.println("Lowercase = " + ch);
     }
 }
