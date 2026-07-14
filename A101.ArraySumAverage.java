@@ -8,7 +8,7 @@ class ArraySumAverage {
         double avg = average(numArray);
         System.out.println("Sum of the numbers is: " + sum);
         System.out.println("Average of the numbers is: " + avg);
-    }
+    } 
     public static long sum(int[] numArray) {
         long sum = 0;
         int i = 0;
