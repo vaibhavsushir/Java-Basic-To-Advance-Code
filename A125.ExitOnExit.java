@@ -5,7 +5,7 @@ class ExitOnExit {
         
         while(true){
             System.out.print("Enter Your Command: ");
-            String command = input.next();
+            String command = input.next(); 
             if( command.equals("Exit")){
                 break;
             }
