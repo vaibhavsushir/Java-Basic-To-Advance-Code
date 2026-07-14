@@ -5,7 +5,7 @@ class PrimeFor {
         System.out.println("Welcoe To Check Number Is Prime Or Not\n");
         System.out.print("Enter Your Number: ");
         int num = input.nextInt();
-        System.out.print("Your Number Is "+ (IsPrime(num) ? "Prime" : "Not Prime"));
+        System.out.print("Your Number Is "+ (IsPrime(num) ? "Prime" : "Not Prime")); 
     }
         public static boolean IsPrime(int num){
                     for(int i=2 ; i < num ; i++){
