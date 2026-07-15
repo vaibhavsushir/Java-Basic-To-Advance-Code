@@ -5,5 +5,5 @@ class LoopPatterns {
         System.out.println("Welcome To Pattern Print");
         System.out.print("Enter Number Of Rows: ");
         int rows = input.nextInt();
-    }
+    } 
 }
