@@ -7,7 +7,4 @@ class StringManipulation {
         System.out.println(fullname.toUpperCase());
 
     }
-
-
-
 }
