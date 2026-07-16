@@ -9,6 +9,7 @@ class OccurencesForEach {
         int occurence = occurences(nums,element);
         System.out.println("Number Of Occurences Is : "+ occurence +" Times");
     }
+    
     public static int occurences(int[] nums,int element){
         int occ = 0;
         for(int num : nums){
