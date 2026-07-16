@@ -10,6 +10,7 @@ class PalindromeArray {
             System.out.println("Your Array Is Not Palindrome");
         }
     }
+    
     public static boolean IsPalindrome(int[] numarr){
         int i = 0;
         while(i < numarr.length/2){
