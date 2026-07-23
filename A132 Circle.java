@@ -27,7 +27,5 @@ class Circle {
         Circle circle = new Circle(radius);
         System.out.println(circle);
 
-
-
     }
 }
