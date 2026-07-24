@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class DivisibleBy5 {
     public static void main(String[] args) {
-System.out.println("Divisible by 5");
+    System.out.println("Divisible by 5 Check");
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         if (num % 5 == 0)
