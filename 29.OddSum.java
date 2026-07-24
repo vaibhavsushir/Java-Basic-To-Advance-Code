@@ -8,6 +8,7 @@ class OddSum {
         int result = sum(num);;
         System.out.println("Your sum is : "+ result);
     }
+    
     public static int sum(int num){
         int sum = 0;
         int i = 1;
