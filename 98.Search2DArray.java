@@ -13,6 +13,7 @@ class Search2DArray {
             System.out.println("Your Number Is Not Found");
         }
     }
+    
     public static boolean Search(int[][] numarray,int num){
         int i=0;
         while(i < numarray.length){
