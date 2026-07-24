@@ -8,6 +8,5 @@ class DeleteFromArray {
         int numtodelete=input.nextInt();
         System.out.println("Here Is Your New Array");
     }
-
     }
 
