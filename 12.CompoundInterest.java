@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class CompoundInterest {
     public static void main(String[] args) {
-        System.out.println("Welcome To Compound Interest Calculator");
+        System.out.println("Welcome To Compound Interest Calculator\n");
         Scanner input=new Scanner(System.in);
         System.out.print("Enter Principle Amount: ");
         int a=input.nextInt();
