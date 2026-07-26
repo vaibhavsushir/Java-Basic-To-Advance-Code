@@ -2,7 +2,7 @@ import java.util.Scanner;
 class PositiveNegativeZero {
     public static void main(String[] args) { 
         Scanner input=new Scanner(System.in);
-        System.out.println("Welcome TO Number Checker");
+        System.out.println("Welcome TO Number Checker\n");
         System.out.print("Enter Your Number: ");
         int no=input.nextInt();
         if(no>0){
