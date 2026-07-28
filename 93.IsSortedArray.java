@@ -19,7 +19,7 @@ class IsSortedArray {
         }
         i++;
     }
-        return true ;
+        return true;
     }
     public static boolean IsDecreasing(int[] numarray) {
         int i = 1;
