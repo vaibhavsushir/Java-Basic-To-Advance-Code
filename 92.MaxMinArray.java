@@ -3,7 +3,7 @@ class MaxMinArray {
     public static void main(String[]args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome To Find Maximum And Minimum Number Finder ");
-        int[] numarray=ArrayUtility.inputArray() ;
+        int[] numarray=ArrayUtility.inputArray();
         int max = max(numarray);
         System.out.println("Maximum Number Is "+max);
         int min = min(numarray);
