@@ -10,7 +10,6 @@ class OddEvenBitwise {
         }else{
             System.out.println("Your Number Is Even");
         }
-
     }
 }
 
