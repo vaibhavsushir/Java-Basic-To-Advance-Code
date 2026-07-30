@@ -6,7 +6,6 @@ class DeleteFromArray {
         int[] numarray=ArrayUtility.inputArray();
         System.out.print("Enter The Element You Want To Delete: ");
         int numtodelete=input.nextInt();
-
         System.out.println("Here Is Your New Array");
     }
     }
