@@ -3,7 +3,7 @@ class GreatestNumber {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("Welcome To Check Greatest Number Checker/n");
-        System.out.print("Please enter Your First Number: ");
+        System.out.print("Please enter Your First Number: "); 
         int a=input.nextInt();
         System.out.print("Please enter Your Second Number: ");
         int b=input.nextInt();
