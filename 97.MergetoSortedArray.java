@@ -7,7 +7,6 @@ class MergetoSortedArray {
         System.out.println("Your Merge Array Is: ");
         ArrayUtility.displayArray(mergearr);
     } 
-    
     public static int[] merge(int[] arr1,int[] arr2){
         int newsize = arr1.length + arr2.length;
         int[] newarr = new int[newsize];
