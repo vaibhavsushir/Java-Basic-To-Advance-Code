@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Grading {
     public static void main(String[]args){
         Scanner input=new Scanner(System.in);
-        System.out.println("Enter To Grade Calculator");
+        System.out.println("Enter To Grade Calculator\n");
         System.out.print("Enter Your Percent marks: ");
         int a=input.nextInt();
         if(a>=90){
