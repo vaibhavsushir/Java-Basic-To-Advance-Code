@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class TempConvert {
     public static void main(String[] args) {
-    System.out.println("Welcome To Convert To Fahrenheit");
+    System.out.println("Welcome To Convert Celsius To Fahrenheit");
         Scanner sc = new Scanner(System.in);
         float c = sc.nextFloat();
 
