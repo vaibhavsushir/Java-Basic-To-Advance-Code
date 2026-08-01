@@ -5,7 +5,6 @@ public class TempConvert {
     System.out.println("Welcome To Convert Celsius To Fahrenheit");
         Scanner sc = new Scanner(System.in);
         float c = sc.nextFloat();
-
         float f = (c * 9/5) + 32;
         System.out.println("Fahrenheit = " + f);
     }
