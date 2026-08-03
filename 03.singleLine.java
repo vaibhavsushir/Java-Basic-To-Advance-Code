@@ -1,4 +1,4 @@
-class singleLine {
+class singleLine { 
     public static void main(String[] args){
         System.out.print("Print Pattern Using Single Line\n");
         System.out.print("*\n* *\n* * *\n* * * *\n* * * * *");
