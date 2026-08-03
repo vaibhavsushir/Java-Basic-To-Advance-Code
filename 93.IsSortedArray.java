@@ -16,7 +16,7 @@ class IsSortedArray {
         while(i < numarray.length){
         if(numarray[i] < numarray[i-1]){
             return false;
-        }
+        } 
         i++;
     }
         return true;
