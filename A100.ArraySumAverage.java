@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class ArraySumAverage {
     public static void main(String[] args) {
-        System.out.println("Welcome to Array sum and Average");
+        System.out.println("Welcome to Array sum and Average\n");
         int[] numArray = ArrayUtility.inputArray();
         long sum = sum(numArray);
         double avg = average(numArray);
