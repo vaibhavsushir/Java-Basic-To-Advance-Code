@@ -11,7 +11,6 @@ class RangeQueory {
             System.out.println("Enter Range: ");
             int l = input.nextInt();
             int r = input.nextInt();
-
             int ans  = pref[r] - pref[l-1];
             System.out.println("Sum Is "+ans);
         }
