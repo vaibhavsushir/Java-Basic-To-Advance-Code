@@ -21,6 +21,7 @@ class IsSortedArray {
     }
         return true;
     }
+    
     public static boolean IsDecreasing(int[] numarray) {
         int i = 1;
         while (i < numarray.length) {
