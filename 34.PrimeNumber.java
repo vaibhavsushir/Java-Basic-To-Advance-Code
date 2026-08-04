@@ -11,7 +11,6 @@ class PrimeNumber {
         }else{
             System.out.println("Your NUmber Is NOt Prime");
         }
-
     }
     public static boolean IsPrime(int a){
         int i=2;
