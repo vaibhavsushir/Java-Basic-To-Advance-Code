@@ -55,7 +55,7 @@ class Rotation_90 {
         }
         System.out.println("Matrix ");
         printarray(array);
-        System.out.println("Rotation Matrix Is");
+        System.out.println("Rotation Matrix Is"); 
         rotate(array,r1);
     }
 }
