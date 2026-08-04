@@ -4,8 +4,8 @@ class PrimeNumber {
         Scanner input=new Scanner(System.in);
         System.out.println("Welcome TO Prime Number Calculator");
         System.out.println("Enter Your Number: ");
-        int a=input.nextInt();;
-        boolean isprime=IsPrime(a);;
+        int a=input.nextInt();
+        boolean isprime=IsPrime(a);
         if(isprime){
             System.out.println("Your Number is prime");
         }else{
