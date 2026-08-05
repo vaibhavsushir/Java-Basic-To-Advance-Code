@@ -8,7 +8,7 @@ class OcurrencesArray {
         int num = input.nextInt();
         int occurence = occurence(num,numarray);
         System.out.print("The Number Is Found " + occurence + " times");
-    }
+    } 
     public static int occurence(int num, int[] numarray){
         int occ=0;
         int i = 0;
