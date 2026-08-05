@@ -15,6 +15,5 @@ class Arithmatic {
         System.out.println("division Is: "+e);
         int f=a*b;
         System.out.println("Multiplication Is: "+f);
-
     }
 }
