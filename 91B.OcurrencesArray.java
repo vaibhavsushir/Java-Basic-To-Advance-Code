@@ -2,7 +2,7 @@ import java.util.Scanner;
 class OcurrencesArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Welcome To Array Number Occurence calculator");
+        System.out.println("Welcome To Array Number Occurence calculator\n");
         int[] numarray = ArrayUtility.inputArray();
         System.out.print("Enter Number you want to check how many no of time occur: ");
         int num = input.nextInt();
