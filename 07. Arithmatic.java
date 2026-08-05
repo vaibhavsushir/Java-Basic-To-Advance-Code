@@ -16,7 +16,5 @@ class Arithmatic {
         int f=a*b;
         System.out.println("Multiplication Is: "+f);
 
-
-
     }
 }
