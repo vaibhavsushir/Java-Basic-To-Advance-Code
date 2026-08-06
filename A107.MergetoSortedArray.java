@@ -1,6 +1,6 @@
 class MergetoSortedArray {
     public static void main(String[] args) {
-        System.out.println("Welcome To Merge Two Sorted Array\n");
+        System.out.println("Welcome To Merge Two Sorted Array");
         int[] arr1 = ArrayUtility.inputArray();
         int[] arr2= ArrayUtility.inputArray();
         int[] mergearr = merge(arr1,arr2);
