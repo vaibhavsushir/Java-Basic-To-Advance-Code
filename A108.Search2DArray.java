@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Search2DArray {
     public static void main(String[] args) { 
         Scanner input = new Scanner(System.in);
-        System.out.println("Welcome To 2D Search\n");
+        System.out.println("Welcome To 2D Search");
         int[][] numarray = ArrayUtility.input2DArray();
         System.out.print("Enter The Number You Want To Search: ");
         int num=input.nextInt();
