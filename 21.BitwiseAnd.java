@@ -10,7 +10,6 @@ class BitwiseAnd {
 
         int result=a & b ;
         System.out.println("Bitwise Number Is : "+result);
-
     }
 }
 
