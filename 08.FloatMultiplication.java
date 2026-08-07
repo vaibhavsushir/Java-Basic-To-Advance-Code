@@ -1,4 +1,4 @@
- import java.util.Scanner;
+  import java.util.Scanner;
 class FloatMultiplication {
     public static void main(String[]args){
         System.out.println("Multiplication of Float Number\n");
