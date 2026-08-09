@@ -14,5 +14,4 @@ class PasswordChecker {
     public static boolean IsValid(String password){
         return password.length() > 6;
     }
-
 }
