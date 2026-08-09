@@ -9,4 +9,3 @@ class RightShift {
         System.out.println(result);
     }
 }
-
