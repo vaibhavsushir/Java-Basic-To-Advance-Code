@@ -8,5 +8,4 @@ class LeftShift {
         int result = a << 4;
         System.out.println(result);
     }
-
 }
