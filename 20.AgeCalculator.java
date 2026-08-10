@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class AgeCalculator {
+class AgeCalculator{
     public static void main(String[] args){
         System.out.println("Welcome To Age Calculator Of Person");
         Scanner input=new Scanner(System.in);
