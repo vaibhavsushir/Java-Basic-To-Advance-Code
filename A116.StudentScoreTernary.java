@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class StudentScoreTernary {
+class StudentScoreTernary{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome To Categories Student Score\n");
