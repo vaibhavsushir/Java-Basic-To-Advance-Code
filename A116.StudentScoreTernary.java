@@ -5,7 +5,6 @@ class StudentScoreTernary{
         System.out.println("Welcome To Categories Student Score\n");
         System.out.print("Enter Your Score: ");
         int score = input.nextInt();
-
         String result = score > 80 ? "High" : (score > 50 ? "Moderate" : "Low"); 
         System.out.println("Your Grade Is: " + result); 
     }
