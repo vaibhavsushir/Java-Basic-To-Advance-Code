@@ -18,6 +18,6 @@ class Course {
     }
     void unrolledstudent(String studentname){
         System.out.println("StudentName Removed");
-        enrollments++;;
+        enrollments++;
     }
 }
