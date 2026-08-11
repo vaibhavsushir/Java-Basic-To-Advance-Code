@@ -1,4 +1,4 @@
-class Course {
+class Course{
     static int maxcapacity = 100;
 
     String coursename;
