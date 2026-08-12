@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class LeapYear {
+class LeapYear{
     public static void main(String[] args){
         System.out.println("Welcome To Leap Year Checker");
         Scanner input=new Scanner(System.in);;
