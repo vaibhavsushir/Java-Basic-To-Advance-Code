@@ -9,9 +9,7 @@ class CalculatorSwitch {
         int num2 = input.nextInt();
         System.out.print("Enter Operation You Want To Perform On NUmber: ");
         String operation = input.next();
-
         int result =switch(operation){
-
             case "+" -> (num1 + num2);
             case "-" -> (num1 - num2);
             case "*" -> (num1 * num2);
