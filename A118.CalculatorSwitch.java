@@ -17,7 +17,6 @@ class CalculatorSwitch {
             case "*" -> (num1 * num2);
             case "/" -> (num1 / num2);
             default -> -1;
-
         };
         System.out.println("Number "+operation+" Is: "+result);
     }
