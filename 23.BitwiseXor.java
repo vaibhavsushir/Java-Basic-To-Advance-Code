@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class BitwiseXor {
+class BitwiseXor{
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("Welcome To Showcasing Bitwise And Operators");
