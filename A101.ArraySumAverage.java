@@ -19,7 +19,6 @@ class ArraySumAverage {
         }
         return sum;
     }
-
     public static double average(int[] numArray) {
         double sum = sum(numArray);
         return (sum / numArray.length);
