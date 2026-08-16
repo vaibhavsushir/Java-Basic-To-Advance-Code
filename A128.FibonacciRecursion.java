@@ -9,7 +9,6 @@ class FibonacciRecursion {
             System.out.println(fibonacci(i) + " "); 
         }
     }
-    
         public static int fibonacci( int position){
             if ( position == 1){
                 return 0;
