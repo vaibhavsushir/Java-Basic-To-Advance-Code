@@ -1,5 +1,6 @@
 public class MinArray {
     public static void main(String[] args) {
+System.out.println("Find Minimum In Array");
         int arr[] = {10, 3, 25, 1};
 
         int min = arr[0];
