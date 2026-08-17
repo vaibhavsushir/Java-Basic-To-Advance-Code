@@ -7,7 +7,6 @@ class FehrenheitToCelsius {
         float a=input.nextInt();
         float temp=(a-32)*5/9;;
         System.out.println("Temperature In Celsius: "+ temp+" cel");
-
     }
 }
 
