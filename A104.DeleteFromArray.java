@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class DeleteFromArray {
+class DeleteFromArray{
     public static void main(String[]args){
         Scanner input=new Scanner(System.in); 
         System.out.println("Welcome To Array Deletion\n");
