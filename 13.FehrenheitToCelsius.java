@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class FehrenheitToCelsius {
+class FehrenheitToCelsius{
     public static void main(String[]args){
         Scanner input=new Scanner(System.in);
         System.out.println("Welcome To Temperature Converter/n");
