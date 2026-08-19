@@ -17,4 +17,4 @@ class SumOfDigits {
         }
         return sum;
     }
-        }
+ }
