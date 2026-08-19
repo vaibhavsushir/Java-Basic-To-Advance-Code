@@ -9,7 +9,6 @@ class SumOfDigits {
         int sum=sumofdigit(a);;
         System.out.println("Sum Of Digits Is: "+sum);
     }
-    
     public static int sumofdigit(int a){
         int sum = 0;
         while (a > 0) {
