@@ -1,6 +1,5 @@
 class Course{
     static int maxcapacity = 100;
-
     String coursename;
     int enrollments;
     String[] enrolledstudents = new String[maxcapacity];
