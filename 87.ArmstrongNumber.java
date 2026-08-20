@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class ArmstrongNumber{
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Scanner input= new Scanner(System.in);
         System.out.println("Welcome To Armstrong Number Calculator");
         System.out.print("Enter Number: ");
