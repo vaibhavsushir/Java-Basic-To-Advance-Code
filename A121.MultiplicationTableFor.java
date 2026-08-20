@@ -10,7 +10,5 @@ class MultiplicationTableFor {
             int table = i * num;
             System.out.println(i + " * " + num + " = "+ table);
         }
-
-
     }
 }
