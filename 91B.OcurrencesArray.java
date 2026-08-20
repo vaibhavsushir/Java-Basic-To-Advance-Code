@@ -21,4 +21,3 @@ class OcurrencesArray {
         return occ;
     }
 }
-
