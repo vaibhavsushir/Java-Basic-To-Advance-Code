@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class OcurrencesArray {
+class OcurrencesArray{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome To Array Number Occurence calculator\n");
