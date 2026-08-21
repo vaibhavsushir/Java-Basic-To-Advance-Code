@@ -20,7 +20,7 @@ class SumAverage2DArray{
     public static long Sum(int[][] numarray){ 
         long sum=0;
         int i=0;
-        while( i < numarray.length){
+        while(i < numarray.length){
             int j=0;
             while(j < numarray[i].length){
                 sum = sum + numarray[i][j];
