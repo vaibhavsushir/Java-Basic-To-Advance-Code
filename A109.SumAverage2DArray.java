@@ -1,5 +1,5 @@
 
-class SumAverage2DArray {
+class SumAverage2DArray{
     public static void main(String[] args){
         System.out.println("Welcom To Calculate Sum And Average Of 2D Array\n");
         int[][] numarray = ArrayUtility.input2DArray();
