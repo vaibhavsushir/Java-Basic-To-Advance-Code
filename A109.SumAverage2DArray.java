@@ -8,8 +8,8 @@ class SumAverage2DArray{
         System.out.println("Your Sum of Array is: "+sum);
         System.out.println("Your Average Of Array Is:"+average);
     }
-    public static double Average(int[][] numarray) {
-        if(numarray.length == 0) {
+    public static double Average(int[][] numarray){
+        if(numarray.length == 0){
             return 0;
         }
         int rows = numarray.length ;
