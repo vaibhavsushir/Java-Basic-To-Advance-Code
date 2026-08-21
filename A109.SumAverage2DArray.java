@@ -12,7 +12,7 @@ class SumAverage2DArray{
         if(numarray.length == 0){
             return 0;
         }
-        int rows = numarray.length ;
+        int rows = numarray.length;
         int col = numarray[0].length;
         double size = rows*col;
         return Sum(numarray) / size ;
