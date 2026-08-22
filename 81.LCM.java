@@ -10,7 +10,7 @@ class LCM {
         int lcm=LCM(a,b);
         System.out.println("LCM of Two Number Is:"+lcm);
     }
-    public static int LCM(int a,int b) {
+    public static int LCM(int a,int b){
         int i = 1;
         while (true) {
             int factor = b * i;
