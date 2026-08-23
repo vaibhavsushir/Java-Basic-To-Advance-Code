@@ -12,4 +12,3 @@ class TriangleArea{
         System.out.println("Area Of Cicle is: "+ area);
     } 
 }
-
