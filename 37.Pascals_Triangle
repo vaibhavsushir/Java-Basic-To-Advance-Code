@@ -8,7 +8,7 @@ class Pascals_Triangle{
             System.out.println(); 
         }
     }
-    static int[][] pascal(int n) {
+    static int[][] pascal(int n){
         int[][] ans = new int[n][];
 
         for(int i=0; i<n; i++) {
