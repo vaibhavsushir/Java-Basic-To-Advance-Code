@@ -12,7 +12,7 @@ class PalindromeArray{
     }
     public static boolean IsPalindrome(int[] numarr){
         int i = 0;
-        while(i < numarr.length/2){
+        while(i <numarr.length/2){
             if(numarr[i] == numarr[(numarr.length-1)-i]){
                 i++;;
             }
