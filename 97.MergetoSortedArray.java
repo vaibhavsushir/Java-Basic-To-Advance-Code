@@ -1,4 +1,4 @@
-class MergetoSortedArray {
+class MergetoSortedArray{
     public static void main(String[] args) {
         System.out.println("Welcome To Merge Two Sorted Array\n");
         int[] arr1 = ArrayUtility.inputArray();
