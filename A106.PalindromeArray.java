@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class PalindromeArray {
+class PalindromeArray{
     public static void main(String[] args){
         System.out.println("Welcome To Palindrome Checker\n");
         int[] numarr = ArrayUtility.inputArray(); 
