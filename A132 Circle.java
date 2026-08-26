@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Circle {
+class Circle{
 
     double RadiusInMm;
     Circle(double RadiusInMm){
