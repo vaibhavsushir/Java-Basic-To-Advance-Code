@@ -2,7 +2,6 @@ import java.util.Scanner;
 class Circle {
 
     double RadiusInMm;
-
     Circle(double RadiusInMm){
         this.RadiusInMm = RadiusInMm;
     }
