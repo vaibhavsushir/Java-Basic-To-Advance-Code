@@ -16,7 +16,6 @@ class Circle{
     public String toString() {
         return "Circle Props:RadiusInMm: "+RadiusInMm + ",Circumference In Mm: " +getcircumference()+",Area Of Circle: "+getarea();
     }
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome To World Of Circle\n");
