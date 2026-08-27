@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Swap {
+class Swap{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in) ;
         System.out.println("Welcome To Swaping Station\n");
