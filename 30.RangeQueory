@@ -24,7 +24,7 @@ class RangeQueory{
     }
 }
 
-//class RangeQuery {
+//class RangeQuery{
 //    public static void main(String[] args) {
 //        Scanner input = new Scanner(System.in);
 //        System.out.println("Welcome To Print Sum From 1 To Range\n");
