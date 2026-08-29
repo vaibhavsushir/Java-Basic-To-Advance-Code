@@ -23,8 +23,6 @@ class RangeQueory {
         return arr;
     }
 }
-//import java.util.Scanner;
-//
 //class RangeQuery {
 //    public static void main(String[] args) {
 //        Scanner input = new Scanner(System.in);
