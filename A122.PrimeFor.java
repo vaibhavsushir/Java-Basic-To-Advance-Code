@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class PrimeFor {
+class PrimeFor{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Welcoe To Check Number Is Prime Or Not\n");
