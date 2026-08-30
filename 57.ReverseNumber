@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseNumber {
+public class ReverseNumber{
     public static void main(String[] args) {
     System.out.println("Revers Number/n");
         Scanner sc = new Scanner(System.in);
