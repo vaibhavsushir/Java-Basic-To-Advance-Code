@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class GreatestNumber {
+class GreatestNumber{
     public static void main(String[] args){
         Scanner input=new Scanner(System.in);
         System.out.println("Welcome To Check Greatest Number Checker/n");
