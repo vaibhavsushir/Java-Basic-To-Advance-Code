@@ -5,7 +5,6 @@ class StudentToString {
 
     String rollnumber;
     String house;
-
     public StudentToString(String name, int age, String rollnumber, String house) {
         this.name = name;
         this.age = age;
