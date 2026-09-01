@@ -11,7 +11,6 @@ class StudentToString {
         this.rollnumber = rollnumber;
         this.house = house;
     }
-
     @Override
     public String toString() {
         return "Student Details: {Name: " + name + ",Age: " + age + ",Roll Number: " + rollnumber + ",House: " + house + " }";
