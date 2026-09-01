@@ -5,7 +5,7 @@ class DiagonalSum2DArray {
         System.out.println("Welcome To Sum Of Diagonal");
         int[][] numarray = ArrayUtility.input2DArray();
         long sum = sumofdiagonals(numarray);
-        System.out.println("Sum Of diagonals Is: "+ sum)
+        System.out.println("Sum Of diagonals Is: "+ sum);
     }
     public static long sumofdiagonals(int[][] numarray){
         long leftsum = sumofleftdiagonals(numarray);
