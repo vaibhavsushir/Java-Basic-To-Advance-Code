@@ -1,5 +1,5 @@
   import java.util.Scanner;
-class FloatMultiplication {
+class FloatMultiplication{
     public static void main(String[]args){
         System.out.println("Multiplication of Float Number\n");
         Scanner input=new Scanner(System.in);
