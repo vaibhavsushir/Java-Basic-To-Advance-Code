@@ -12,4 +12,3 @@ class BitwiseAnd {
         System.out.println("Bitwise Number Is : "+result);
     }
 }
-
