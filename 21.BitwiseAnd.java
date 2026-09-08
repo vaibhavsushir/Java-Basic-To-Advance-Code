@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class BitwiseAnd {
+class BitwiseAnd{
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("Welcome To Showcasing Bitwise And Operators/n");
