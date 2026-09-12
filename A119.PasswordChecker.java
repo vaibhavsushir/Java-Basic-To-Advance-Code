@@ -9,7 +9,6 @@ class PasswordChecker {
         password = input.next();
     }while(!IsValid(password));
         System.out.println("Thanks For Entering Valid Password");
-
     }
     public static boolean IsValid(String password){
         return password.length() > 6;
