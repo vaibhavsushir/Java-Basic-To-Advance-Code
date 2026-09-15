@@ -9,6 +9,7 @@ class MaxMinArray {
         int min = min(numarray);
         System.out.println("Manimum Number Is "+min);
     }
+    
     public static int max(int[] numarray) {
         if(numarray.length == 0){
             return Integer.MIN_VALUE;
@@ -23,6 +24,7 @@ class MaxMinArray {
         }
         return max;
     }
+    
     public static int min(int[] numarray) {
         int min = Integer.MAX_VALUE;
         int i = 0;
@@ -33,7 +35,6 @@ class MaxMinArray {
             i++;
             ;
         }
-
         return min;
     }
 }
