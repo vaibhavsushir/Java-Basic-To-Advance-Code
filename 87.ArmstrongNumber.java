@@ -2,7 +2,7 @@ import java.util.Scanner;
 class ArmstrongNumber{
     public static void main(String[] args){
         Scanner input= new Scanner(System.in);
-        System.out.println("Welcome To Armstrong Number Calculator");
+        System.out.println("Welcome To Armstrong Number Calculator/n");
         System.out.print("Enter Number: ");
         int num = input.nextInt();
         boolean Isarmstrong = isarmstrong(num);;
