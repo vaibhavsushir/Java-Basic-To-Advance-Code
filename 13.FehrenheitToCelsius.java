@@ -9,4 +9,3 @@ class FehrenheitToCelsius{
         System.out.println("Temperature In Celsius: "+ temp+" cel");
     }
 }
-
