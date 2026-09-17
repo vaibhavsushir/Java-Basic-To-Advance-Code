@@ -10,7 +10,6 @@ class Perimeter {
         int d=input.nextInt();
        int perimeter=a+b+c+d;
         System.out.println("Perimeter Of Squre Is: "+ perimeter + " cm");
-
     }
 }
 
