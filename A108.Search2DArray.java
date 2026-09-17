@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Search2DArray {
+class Search2DArray{
     public static void main(String[] args) { 
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome To 2D Search");
