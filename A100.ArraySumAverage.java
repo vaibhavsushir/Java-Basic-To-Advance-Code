@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-class ArraySumAverage {
+class ArraySumAverage{
     public static void main(String[] args) {
         System.out.println("Welcome to Array sum and Average\n");
         int[] numArray = ArrayUtility.inputArray();
