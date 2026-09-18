@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class RightShift {
+class RightShift{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome To Showcasing RightShift operators\n");
