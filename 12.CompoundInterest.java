@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CompoundInterest {
+class CompoundInterest{
     public static void main(String[] args) {
         System.out.println("Welcome To Compound Interest Calculator\n");
         Scanner input=new Scanner(System.in);
@@ -13,4 +13,3 @@ class CompoundInterest {
         System.out.println("Compound Interest Is: "+CI);
     }
 }
-
