@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class SumPositive {
+class SumPositive{
     public static void main(String[] args){
         System.out.println("Welcome To Sum Of Positive Number\n");
         int[] numarr = ArrayUtility.inputArray();
