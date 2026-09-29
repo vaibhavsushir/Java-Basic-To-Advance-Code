@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ java.util.Scanner;
 class numberRepeated{
         int[] numarr = new int[6];
       System.out.println("Enter 6 Elements: ");
